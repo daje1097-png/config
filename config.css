@@ -45,6 +45,7 @@
 }
 
 #classPreviewCanvas {
-	filter: drop-shadow(10px 10px black);
+	filter: drop-shadow(10px 10px black) saturate(0);
     opacity: 1;
 }
+
